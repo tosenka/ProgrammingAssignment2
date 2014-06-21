@@ -1,7 +1,7 @@
 ### Assignment: Caching the Inverse of a Matrix
 
 ## This function creates a special "matrix" object that can cache its inverse.
-# It set the velue of the matrix;
+# set the value of the matrix;
 # get the value of the matrix;
 # set the inverse of a matrix;
 # get the inverse of a matrix
